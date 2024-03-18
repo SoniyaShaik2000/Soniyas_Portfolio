@@ -52,5 +52,5 @@ var findingWinner = (winnerPlayer) =>
 {
     $(".callerContainer").css("display","none");
     $("#winner").css("display","block");
-    $("#winner").text(winnerPlayer +" is the champion!")
+    $("#winner").text(winnerPlayer +" Bingo!")
 }
